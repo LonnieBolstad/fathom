@@ -15,7 +15,8 @@ Fathom tackles users' tasks like a PhD with power tools. Fathom reimagines AI-as
 
 ### Overview
 
-![image](https://github.com/user-attachments/assets/5ca9987f-841e-4fa5-8821-514863352128)
+![image](https://github.com/user-attachments/assets/c0913cb9-ce93-4098-905e-ccbaab234224)
+
 
 
 ## 4. Module Explanation
